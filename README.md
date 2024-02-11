@@ -52,7 +52,7 @@ Before diving into React, ensure you have the following knowledge:
 4. **Clone this Repository**:
     - Clone this repository into your project folder:
       ```
-      git clone <repository_url>
+      git clone https://github.com/choiruzain-latrobe/react-basic.git
       ```
 
 5. **Install Dependencies**:
