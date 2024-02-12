@@ -47,7 +47,7 @@ Before diving into React, ensure you have the following knowledge:
     - Open your preferred code editor. [Visual Studio Code](https://code.visualstudio.com/download) (VS Code) is recommended.
 
 3. **Create a New Project**:
-    - Create a new directory for your React project (e.g., `my-react-app`, or `react-basic`).
+    - Create a new directory for your React project (e.g.,`react-basic`).
 
 4. **Clone this Repository**:
     - Clone this repository into your project folder:
@@ -58,8 +58,7 @@ Before diving into React, ensure you have the following knowledge:
 5. **Install Dependencies**:
     - In the terminal, navigate to your project folder:
       ```
-      cd react-basic or 
-      cd my-react-app
+      cd react-basic
       ```
     - Run the following command to install dependencies:
       ```
