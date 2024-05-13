@@ -37,6 +37,9 @@ Before diving into React, ensure you have the following knowledge:
 2. **HTML**:
     - Since React involves creating UI components, a basic understanding of HTML is necessary.
     - Refer to this HTML cheatsheet if needed.
+  
+![GitHub Logo](logo.png)
+
 
 ## Getting Started
 
